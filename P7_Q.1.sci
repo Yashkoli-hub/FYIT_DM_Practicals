@@ -9,5 +9,5 @@ fact_nr = factorial(n-r);
 //Apply permutation formula
 P = fact_n / fact_nr;
 //Display result
-disp("Total possible passwors arrangements:")
+disp("Total possible passwords arrangements:")
 disp(P);
